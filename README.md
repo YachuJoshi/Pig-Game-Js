@@ -1,3 +1,5 @@
+Part Of Excercise: Basic Pig Game in Javascript
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
